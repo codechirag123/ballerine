@@ -1,3 +1,119 @@
+## 0.5.25-beta.1 (2024-09-03)
+
+### 🚀 Features
+
+- updated ui file input adapter & version bump & schema updates ([#927](https://github.com/codechirag123/ballerine/pull/927))
+
+- reworked data insertion on JSONform of type array & ui bump ([#1531](https://github.com/codechirag123/ballerine/pull/1531))
+
+- reworked data insertion on JSONform of type array & ui bump ([#1531](https://github.com/codechirag123/ballerine/pull/1531))
+
+- fixing ClipsPay workflow bugs ([#1630](https://github.com/codechirag123/ballerine/pull/1630))
+
+- fixing ClipsPay workflow bugs ([#1630](https://github.com/codechirag123/ballerine/pull/1630))
+
+- integrated updated breadcrumbs component & ui bump ([#1695](https://github.com/codechirag123/ballerine/pull/1695))
+
+- future & past dates can be disabled in date picker & ui bump ([#1819](https://github.com/codechirag123/ballerine/pull/1819))
+
+- version bump ([#1847](https://github.com/codechirag123/ballerine/pull/1847))
+
+- added openOnFocus to DropdownInput & ui bump ([#1826](https://github.com/codechirag123/ballerine/pull/1826))
+
+- update version ([1f9ee4b5](https://github.com/codechirag123/ballerine/commit/1f9ee4b5))
+
+- small ui fixes ([198540ea](https://github.com/codechirag123/ballerine/commit/198540ea))
+
+- version bump ([818cbd7d](https://github.com/codechirag123/ballerine/commit/818cbd7d))
+
+- **\*:** ui package release ([#1784](https://github.com/codechirag123/ballerine/pull/1784))
+
+- **doc-types:** adding POE's and POA's to UG ([#2481](https://github.com/codechirag123/ballerine/pull/2481))
+
+- **wf-def:** api and dashboard ui ([07dd1ca0](https://github.com/codechirag123/ballerine/commit/07dd1ca0))
+
+- **\*:** update report ui ([#2660](https://github.com/codechirag123/ballerine/pull/2660))
+
+### 🩹 Fixes
+
+- fixed validation issues on schemas & label click fix & ui bump ([#971](https://github.com/codechirag123/ballerine/pull/971))
+
+- fixed input description spacings & ui bump ([#1578](https://github.com/codechirag123/ballerine/pull/1578))
+
+- fixed input description spacings & ui bump ([#1578](https://github.com/codechirag123/ballerine/pull/1578))
+
+- fixed bug where DateInput started losing focus when entering year ([#1764](https://github.com/codechirag123/ballerine/pull/1764))
+
+- update packages ([e9f37f80](https://github.com/codechirag123/ballerine/commit/e9f37f80))
+
+- fixed text overflow on dropdown input ([#2555](https://github.com/codechirag123/ballerine/pull/2555))
+
+- **\*:** renamed lib to dist ([#693](https://github.com/codechirag123/ballerine/pull/693))
+
+- **\*:** set radix dialog version to 1.0.4 with no ^ to avoid amplify type error ([#1452](https://github.com/codechirag123/ballerine/pull/1452))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **ui:** fixed filtering of boolean fields ([#2630](https://github.com/codechirag123/ballerine/pull/2630))
+
+- **ui:** changed tsconfig ([#2655](https://github.com/codechirag123/ballerine/pull/2655))
+
+### 🏡 Chore
+
+- merge with kyb branch ([#839](https://github.com/codechirag123/ballerine/pull/839))
+
+- release package(s) ([#884](https://github.com/codechirag123/ballerine/pull/884))
+
+- packages/ui version bump ([#1631](https://github.com/codechirag123/ballerine/pull/1631))
+
+- packages/ui version bump ([#1631](https://github.com/codechirag123/ballerine/pull/1631))
+
+- update version ([#2218](https://github.com/codechirag123/ballerine/pull/2218))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **version:** bump ([ef7c6afc](https://github.com/codechirag123/ballerine/commit/ef7c6afc))
+
+- **\*:** ui package optionalLabel re-release ([#1809](https://github.com/codechirag123/ballerine/pull/1809))
+
+- **update:** mver bump ([2d3e0e4e](https://github.com/codechirag123/ballerine/commit/2d3e0e4e))
+
+- **deps-dev:** bump vite from 4.0.3 to 4.5.3 ([#2280](https://github.com/codechirag123/ballerine/pull/2280))
+
+- **bump:** version release ([8c24bade](https://github.com/codechirag123/ballerine/commit/8c24bade))
+
+- **bump-version:** chore ([af862c9c](https://github.com/codechirag123/ballerine/commit/af862c9c))
+
+- **workflow-core:** error handling ([#2557](https://github.com/codechirag123/ballerine/pull/2557))
+
+- **version:** bump ([07afb80b](https://github.com/codechirag123/ballerine/commit/07afb80b))
+
+- **\*:** updated all packages ([2c200a15](https://github.com/codechirag123/ballerine/commit/2c200a15))
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config-react to 2.0.14-beta.1
+- Updated @ballerine/common to 0.9.29-beta.1
+- Updated @ballerine/config to 1.1.14-beta.1
+
+### ❤️ Thank You
+
+- Alon Peretz @alonp99
+- Ballerine @ballerine-dev
+- Illia Rudniev @chesterkmr
+- liorzam @liorzam
+- Matan Yadaev @MatanYadaev
+- Omri Levy @Omri-Levy
+- Tomer Shvadron
+
 # @ballerine/ui
 
 ## 0.5.23

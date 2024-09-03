@@ -1,3 +1,178 @@
+## 0.6.40-beta.1 (2024-09-03)
+
+
+### 🚀 Features
+
+- node SDK with memory persistence ([#153](https://github.com/codechirag123/ballerine/pull/153))
+
+- updated jq with jmespath ([#600](https://github.com/codechirag123/ballerine/pull/600))
+
+- added attributes to company documents & updates schemas & version bump ([e37e5998](https://github.com/codechirag123/ballerine/commit/e37e5998))
+
+- version bump ([#1847](https://github.com/codechirag123/ballerine/pull/1847))
+
+- update version ([1f9ee4b5](https://github.com/codechirag123/ballerine/commit/1f9ee4b5))
+
+- version bump ([818cbd7d](https://github.com/codechirag123/ballerine/commit/818cbd7d))
+
+- added invoked at using plugin logic ([#2203](https://github.com/codechirag123/ballerine/pull/2203))
+
+- updated invoked at release ([#2206](https://github.com/codechirag123/ballerine/pull/2206))
+
+- added theme schemas to common & updated imports & bump ([#2309](https://github.com/codechirag123/ballerine/pull/2309))
+
+- fixes ([#2586](https://github.com/codechirag123/ballerine/pull/2586))
+
+- **workflow-core:** adding workflow core lib ([#134](https://github.com/codechirag123/ballerine/pull/134))
+
+- ***:** added workflow-browser-sdk ([#146](https://github.com/codechirag123/ballerine/pull/146))
+
+- **doc-schemas:** add mtn statement ([#672](https://github.com/codechirag123/ballerine/pull/672))
+
+- **docs:** add docs schema type ([#676](https://github.com/codechirag123/ballerine/pull/676))
+
+- **doc-types:** adding POE's and POA's to UG ([#2481](https://github.com/codechirag123/ballerine/pull/2481))
+
+- **wf-def:** api and dashboard ui ([07dd1ca0](https://github.com/codechirag123/ballerine/commit/07dd1ca0))
+
+- ***:** added zz to document schema ([#2572](https://github.com/codechirag123/ballerine/pull/2572))
+
+- ***:** added merchant screening plugin to swagger ([#2647](https://github.com/codechirag123/ballerine/pull/2647))
+
+
+### 🩹 Fixes
+
+- upgrade @ballerine/common from 0.4.3 to 0.4.4 ([#519](https://github.com/codechirag123/ballerine/pull/519))
+
+- fixing some lint, demo errors and map error ([#792](https://github.com/codechirag123/ballerine/pull/792))
+
+- updated workflow creation payload & fixed backoffice open corporates ([#806](https://github.com/codechirag123/ballerine/pull/806))
+
+- fixed file upload in KYB & schema updates & common bump ([#1550](https://github.com/codechirag123/ballerine/pull/1550))
+
+- fixed file upload in KYB & schema updates & common bump ([#1550](https://github.com/codechirag123/ballerine/pull/1550))
+
+- workflow changes ([#1645](https://github.com/codechirag123/ballerine/pull/1645))
+
+- workflow changes ([#1645](https://github.com/codechirag123/ballerine/pull/1645))
+
+- removed imageUrl from ZZ documents schemas & common bump ([#1703](https://github.com/codechirag123/ballerine/pull/1703))
+
+- open corporates bug with state selection & transformer plugin added ([#1700](https://github.com/codechirag123/ballerine/pull/1700))
+
+- fixes ([ee77abbd](https://github.com/codechirag123/ballerine/commit/ee77abbd))
+
+- fixes ([7ae0990b](https://github.com/codechirag123/ballerine/commit/7ae0990b))
+
+- pr comments ([6a1b977e](https://github.com/codechirag123/ballerine/commit/6a1b977e))
+
+- bug fixes ([4887976d](https://github.com/codechirag123/ballerine/commit/4887976d))
+
+- fixed invoked at issue ([#2199](https://github.com/codechirag123/ballerine/pull/2199))
+
+- update packages ([e9f37f80](https://github.com/codechirag123/ballerine/commit/e9f37f80))
+
+- update packages ([00ae842b](https://github.com/codechirag123/ballerine/commit/00ae842b))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **kyb:** logs and kyb header fix ([6b36377d](https://github.com/codechirag123/ballerine/commit/6b36377d))
+
+- **examples:** fixed kyb example ([a3d729b0](https://github.com/codechirag123/ballerine/commit/a3d729b0))
+
+- **core:** add log to childworkflow creation ([#2285](https://github.com/codechirag123/ballerine/pull/2285))
+
+- **core-logs:** remove bad initiating child plugin log ([#2417](https://github.com/codechirag123/ballerine/pull/2417))
+
+- **rule-engine:** calcualte only passed rules ([9fdee1cb](https://github.com/codechirag123/ballerine/commit/9fdee1cb))
+
+- ***:** schema, optionals, and super on method ([#2665](https://github.com/codechirag123/ballerine/pull/2665))
+
+- ***:** plugin headers ([#2667](https://github.com/codechirag123/ballerine/pull/2667))
+
+
+### 🏡 Chore
+
+- release package(s) ([#143](https://github.com/codechirag123/ballerine/pull/143))
+
+- release package(s) ([#145](https://github.com/codechirag123/ballerine/pull/145))
+
+- release package(s) ([#152](https://github.com/codechirag123/ballerine/pull/152))
+
+- release package(s) ([#173](https://github.com/codechirag123/ballerine/pull/173))
+
+- release package(s) ([#205](https://github.com/codechirag123/ballerine/pull/205))
+
+- release package(s) ([#288](https://github.com/codechirag123/ballerine/pull/288))
+
+- add eslint unused import plugin to projects seperately ([#425](https://github.com/codechirag123/ballerine/pull/425))
+
+- merge with kyb branch ([#839](https://github.com/codechirag123/ballerine/pull/839))
+
+- merged dev branch in to demo ([#905](https://github.com/codechirag123/ballerine/pull/905))
+
+- release package(s) ([#1488](https://github.com/codechirag123/ballerine/pull/1488))
+
+- package releases ([f84023ec](https://github.com/codechirag123/ballerine/commit/f84023ec))
+
+- update version ([#2218](https://github.com/codechirag123/ballerine/pull/2218))
+
+- better logging in Risk Rules Plugin and kyb plugin schema fix ([#2577](https://github.com/codechirag123/ballerine/pull/2577))
+
+- **update packages:** update packages ([3e93d8c3](https://github.com/codechirag123/ballerine/commit/3e93d8c3))
+
+- **packages:** bump to v0.4.* ([ee5bb88a](https://github.com/codechirag123/ballerine/commit/ee5bb88a))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **version:** bump ([ef7c6afc](https://github.com/codechirag123/ballerine/commit/ef7c6afc))
+
+- **update:** mver bump ([2d3e0e4e](https://github.com/codechirag123/ballerine/commit/2d3e0e4e))
+
+- **deps-dev:** bump vite from 4.0.3 to 4.5.3 ([#2280](https://github.com/codechirag123/ballerine/pull/2280))
+
+- ***:** released common package ([#2447](https://github.com/codechirag123/ballerine/pull/2447))
+
+- **bump:** version release ([8c24bade](https://github.com/codechirag123/ballerine/commit/8c24bade))
+
+- **bump-version:** chore ([af862c9c](https://github.com/codechirag123/ballerine/commit/af862c9c))
+
+- **workflow-core:** error handling ([#2557](https://github.com/codechirag123/ballerine/pull/2557))
+
+- **version:** bump ([07afb80b](https://github.com/codechirag123/ballerine/commit/07afb80b))
+
+- ***:** updated all packages ([2c200a15](https://github.com/codechirag123/ballerine/commit/2c200a15))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.1
+- Updated @ballerine/common to 0.9.29-beta.1
+- Updated @ballerine/config to 1.1.14-beta.1
+
+
+### ❤️  Thank You
+
+- Alon Peretz @alonp99
+- Aviran Abady @AviranAbady
+- Ballerine @ballerine-dev
+- ballerine-dev @ballerine-dev
+- Daniel Blokh @Blokh
+- Illia Rudniev @chesterkmr
+- liorzam @liorzam
+- Matan Yadaev @MatanYadaev
+- Muhammad Afaq Shuaib @AfaqShuaib09
+- Omri Levy @Omri-Levy
+- Tomer Shvadron @tomer-shvadron
+
 # @ballerine/workflow-core
 
 ## 0.6.38

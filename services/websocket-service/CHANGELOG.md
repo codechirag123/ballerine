@@ -1,3 +1,67 @@
+## 0.1.14-beta.1 (2024-09-03)
+
+
+### 🚀 Features
+
+- version bump ([#1847](https://github.com/codechirag123/ballerine/pull/1847))
+
+- update version ([1f9ee4b5](https://github.com/codechirag123/ballerine/commit/1f9ee4b5))
+
+- **db:** add plv8 ([#727](https://github.com/codechirag123/ballerine/pull/727))
+
+- **doc-types:** adding POE's and POA's to UG ([#2481](https://github.com/codechirag123/ballerine/pull/2481))
+
+- **wf-def:** api and dashboard ui ([07dd1ca0](https://github.com/codechirag123/ballerine/commit/07dd1ca0))
+
+
+### 🩹 Fixes
+
+- **docs:** fixed docs ([#612](https://github.com/codechirag123/ballerine/pull/612))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+
+### 🏡 Chore
+
+- merged dev branch in to demo ([#905](https://github.com/codechirag123/ballerine/pull/905))
+
+- update version ([#2218](https://github.com/codechirag123/ballerine/pull/2218))
+
+- **deps:** bump zod from 3.21.4 to 3.22.3 ([#1359](https://github.com/codechirag123/ballerine/pull/1359))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **version:** bump ([ef7c6afc](https://github.com/codechirag123/ballerine/commit/ef7c6afc))
+
+- **update:** mver bump ([2d3e0e4e](https://github.com/codechirag123/ballerine/commit/2d3e0e4e))
+
+- **bump:** version release ([8c24bade](https://github.com/codechirag123/ballerine/commit/8c24bade))
+
+- **bump-version:** chore ([af862c9c](https://github.com/codechirag123/ballerine/commit/af862c9c))
+
+- **workflow-core:** error handling ([#2557](https://github.com/codechirag123/ballerine/pull/2557))
+
+- **version:** bump ([07afb80b](https://github.com/codechirag123/ballerine/commit/07afb80b))
+
+- ***:** updated all packages ([2c200a15](https://github.com/codechirag123/ballerine/commit/2c200a15))
+
+
+### ❤️  Thank You
+
+- Alon Peretz @alonp99
+- Illia Rudniev @chesterkmr
+- liorzam @liorzam
+- Omri Levy
+- Tomer Shvadron
+
 # @ballerine/websocket-service
 
 ## 0.1.12

@@ -1,3 +1,90 @@
+## 1.2.25-beta.1 (2024-09-03)
+
+
+### 🚀 Features
+
+- aded react-pdf-toolkit & added report-generation example ([#1882](https://github.com/codechirag123/ballerine/pull/1882))
+
+- updated pdf report layout & version bump ([49498415](https://github.com/codechirag123/ballerine/commit/49498415))
+
+- added version to report header & bump ([#1906](https://github.com/codechirag123/ballerine/pull/1906))
+
+- added url to link & added domains to ecosystem ([#1963](https://github.com/codechirag123/ballerine/pull/1963))
+
+- added validation & null handling for score & updated schemas & bump ([#1980](https://github.com/codechirag123/ballerine/pull/1980))
+
+- update version ([1f9ee4b5](https://github.com/codechirag123/ballerine/commit/1f9ee4b5))
+
+- version bump ([818cbd7d](https://github.com/codechirag123/ballerine/commit/818cbd7d))
+
+- updated readme ([#2430](https://github.com/codechirag123/ballerine/pull/2430))
+
+- **doc-types:** adding POE's and POA's to UG ([#2481](https://github.com/codechirag123/ballerine/pull/2481))
+
+- **wf-def:** api and dashboard ui ([07dd1ca0](https://github.com/codechirag123/ballerine/commit/07dd1ca0))
+
+- ***:** update report ui ([#2660](https://github.com/codechirag123/ballerine/pull/2660))
+
+
+### 🩹 Fixes
+
+- bump ([e725df58](https://github.com/codechirag123/ballerine/commit/e725df58))
+
+- fixed typo & empty sections rendering & status colors & bump ([#1905](https://github.com/codechirag123/ballerine/pull/1905))
+
+- fixed typos & score color in ecosystem table ([#1962](https://github.com/codechirag123/ballerine/pull/1962))
+
+- fixed typos & missing score rendering ([#1971](https://github.com/codechirag123/ballerine/pull/1971))
+
+- removed data duplicate in LOB section ([#1978](https://github.com/codechirag123/ballerine/pull/1978))
+
+- update packages ([e9f37f80](https://github.com/codechirag123/ballerine/commit/e9f37f80))
+
+- fixed text overflow on dropdown input ([#2555](https://github.com/codechirag123/ballerine/pull/2555))
+
+- **ui:** fixed filtering of boolean fields ([#2630](https://github.com/codechirag123/ballerine/pull/2630))
+
+- **ui:** changed tsconfig ([#2655](https://github.com/codechirag123/ballerine/pull/2655))
+
+
+### 🏡 Chore
+
+- update version ([#2218](https://github.com/codechirag123/ballerine/pull/2218))
+
+- **pdf-gen:** ver update ([04c28a50](https://github.com/codechirag123/ballerine/commit/04c28a50))
+
+- **pdf-gen:** ver update ([7069970a](https://github.com/codechirag123/ballerine/commit/7069970a))
+
+- **update:** mver bump ([2d3e0e4e](https://github.com/codechirag123/ballerine/commit/2d3e0e4e))
+
+- **deps-dev:** bump vite from 4.0.3 to 4.5.3 ([#2280](https://github.com/codechirag123/ballerine/pull/2280))
+
+- **bump:** version release ([8c24bade](https://github.com/codechirag123/ballerine/commit/8c24bade))
+
+- **bump-version:** chore ([af862c9c](https://github.com/codechirag123/ballerine/commit/af862c9c))
+
+- **workflow-core:** error handling ([#2557](https://github.com/codechirag123/ballerine/pull/2557))
+
+- **version:** bump ([07afb80b](https://github.com/codechirag123/ballerine/commit/07afb80b))
+
+- ***:** updated all packages ([2c200a15](https://github.com/codechirag123/ballerine/commit/2c200a15))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/config to 1.1.14-beta.1
+- Updated @ballerine/ui to 0.5.25-beta.1
+
+
+### ❤️  Thank You
+
+- Alon Peretz @alonp99
+- Illia Rudniev @chesterkmr
+- liorzam @liorzam
+- Matan Yadaev @MatanYadaev
+- Omri Levy @Omri-Levy
+- Tomer Shvadron
+
 # @ballerine/react-pdf-toolkit
 
 ## 1.2.23

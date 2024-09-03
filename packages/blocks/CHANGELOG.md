@@ -1,3 +1,78 @@
+## 0.2.15-beta.1 (2024-09-03)
+
+### 🚀 Features
+
+- added attributes to company documents & updates schemas & version bump ([e37e5998](https://github.com/codechirag123/ballerine/commit/e37e5998))
+
+- version bump ([#1847](https://github.com/codechirag123/ballerine/pull/1847))
+
+- update version ([1f9ee4b5](https://github.com/codechirag123/ballerine/commit/1f9ee4b5))
+
+- **doc-types:** adding POE's and POA's to UG ([#2481](https://github.com/codechirag123/ballerine/pull/2481))
+
+- **wf-def:** api and dashboard ui ([07dd1ca0](https://github.com/codechirag123/ballerine/commit/07dd1ca0))
+
+### 🩹 Fixes
+
+- fixed file upload in KYB & schema updates & common bump ([#1550](https://github.com/codechirag123/ballerine/pull/1550))
+
+- fixed file upload in KYB & schema updates & common bump ([#1550](https://github.com/codechirag123/ballerine/pull/1550))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **change gh docs:** removing bank statment for GH fin focs ([#1621](https://github.com/codechirag123/ballerine/pull/1621))
+
+- **blocks-package:** omri-levy/fix/blocks-types ([be9f8ec2](https://github.com/codechirag123/ballerine/commit/be9f8ec2))
+
+### 🏡 Chore
+
+- merge with kyb branch ([#839](https://github.com/codechirag123/ballerine/pull/839))
+
+- release package(s) ([#1014](https://github.com/codechirag123/ballerine/pull/1014))
+
+- release package(s) ([#1488](https://github.com/codechirag123/ballerine/pull/1488))
+
+- update version ([#2218](https://github.com/codechirag123/ballerine/pull/2218))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **monorepo:** ver bump ([#1528](https://github.com/codechirag123/ballerine/pull/1528))
+
+- **mono:** version bump ([#1603](https://github.com/codechirag123/ballerine/pull/1603))
+
+- **version:** bump ([ef7c6afc](https://github.com/codechirag123/ballerine/commit/ef7c6afc))
+
+- **update:** mver bump ([2d3e0e4e](https://github.com/codechirag123/ballerine/commit/2d3e0e4e))
+
+- **deps-dev:** bump vite from 4.0.3 to 4.5.3 ([#2280](https://github.com/codechirag123/ballerine/pull/2280))
+
+- **bump:** version release ([8c24bade](https://github.com/codechirag123/ballerine/commit/8c24bade))
+
+- **bump-version:** chore ([af862c9c](https://github.com/codechirag123/ballerine/commit/af862c9c))
+
+- **workflow-core:** error handling ([#2557](https://github.com/codechirag123/ballerine/pull/2557))
+
+- **version:** bump ([07afb80b](https://github.com/codechirag123/ballerine/commit/07afb80b))
+
+- **\*:** updated all packages ([2c200a15](https://github.com/codechirag123/ballerine/commit/2c200a15))
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.1
+- Updated @ballerine/common to 0.9.29-beta.1
+- Updated @ballerine/config to 1.1.14-beta.1
+
+### ❤️ Thank You
+
+- Alon Peretz @alonp99
+- Ballerine @ballerine-dev
+- Illia Rudniev @chesterkmr
+- liorzam @liorzam
+- Omri Levy
+- Tomer Shvadron
+
 # @ballerine/blocks
 
 ## 0.2.13
