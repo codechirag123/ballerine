@@ -1,3 +1,7 @@
+## 1.1.14-beta.4 (2024-09-05)
+
+This was a version bump only for @ballerine/eslint-config to align it with other projects, there were no code changes.
+
 ## 1.1.14-beta.1 (2024-09-03)
 
 

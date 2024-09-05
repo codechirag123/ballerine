@@ -1,3 +1,11 @@
+## 0.6.40-beta.4 (2024-09-05)
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.4
+- Updated @ballerine/workflow-core to 0.6.40-beta.4
+- Updated @ballerine/config to 1.1.14-beta.4
+
 ## 0.6.40-beta.1 (2024-09-03)
 
 ### 🚀 Features

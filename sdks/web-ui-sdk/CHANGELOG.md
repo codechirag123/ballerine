@@ -1,3 +1,10 @@
+## 1.5.30-beta.4 (2024-09-05)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/common to 0.9.29-beta.4
+
 ## 1.5.30-beta.1 (2024-09-03)
 
 

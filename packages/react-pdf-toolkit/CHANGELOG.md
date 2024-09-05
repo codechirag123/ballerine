@@ -1,3 +1,11 @@
+## 1.2.25-beta.4 (2024-09-05)
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/config to 1.1.14-beta.4
+- Updated @ballerine/ui to 0.5.25-beta.4
+
 ## 1.2.25-beta.1 (2024-09-03)
 
 

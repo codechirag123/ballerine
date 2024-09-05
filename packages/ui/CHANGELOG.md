@@ -1,3 +1,11 @@
+## 0.5.25-beta.4 (2024-09-05)
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config-react to 2.0.14-beta.4
+- Updated @ballerine/common to 0.9.29-beta.4
+- Updated @ballerine/config to 1.1.14-beta.4
+
 ## 0.5.25-beta.1 (2024-09-03)
 
 ### 🚀 Features
