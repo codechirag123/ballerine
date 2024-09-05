@@ -4,8 +4,6 @@ import { DefaultContextSchema } from '@ballerine/common';
 type Documents = DefaultContextSchema['documents'];
 type Document = Documents[number];
 
-const sample = {};
-
 export const updateDocuments = (
   existingDocuments: Documents,
   documentsToUpdate: Documents,
