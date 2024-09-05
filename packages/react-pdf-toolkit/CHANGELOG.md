@@ -1,3 +1,21 @@
+## 1.2.25 (2024-09-05)
+
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/config to 1.1.14
+- Updated @ballerine/ui to 0.5.25
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.2.25-beta.5 (2024-09-05)
 
 

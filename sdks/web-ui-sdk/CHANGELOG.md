@@ -1,3 +1,20 @@
+## 1.5.30 (2024-09-05)
+
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/common to 0.9.29
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.5.30-beta.5 (2024-09-05)
 
 

@@ -1,3 +1,18 @@
+## 0.9.29 (2024-09-05)
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14
+- Updated @ballerine/config to 1.1.14
+
+### ❤️ Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 0.9.29-beta.5 (2024-09-05)
 
 ### 🩹 Fixes

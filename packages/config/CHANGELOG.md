@@ -1,3 +1,15 @@
+## 1.1.14 (2024-09-05)
+
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.1.14-beta.5 (2024-09-05)
 
 

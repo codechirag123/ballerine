@@ -1,3 +1,29 @@
+## 0.7.39 (2024-09-05)
+
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+
+### 🩹 Fixes
+
+- **@ballerine/workflows-service:** adding a change ([7cff544e](https://github.com/codechirag123/ballerine/commit/7cff544e))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14
+- Updated @ballerine/workflow-core to 0.6.40
+- Updated @ballerine/common to 0.9.29
+- Updated @ballerine/config to 1.1.14
+- Updated @ballerine/workflow-node-sdk to 0.6.40
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 0.7.39-beta.6 (2024-09-05)
 
 
