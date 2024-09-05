@@ -1,3 +1,15 @@
+## 0.7.39-beta.6 (2024-09-05)
+
+
+### 🩹 Fixes
+
+- **@ballerine/workflows-service:** removing the change from wf-service ([f33c3260](https://github.com/codechirag123/ballerine/commit/f33c3260))
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 0.7.39-beta.5 (2024-09-05)
 
 
