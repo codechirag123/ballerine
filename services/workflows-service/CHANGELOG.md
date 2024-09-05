@@ -1,3 +1,29 @@
+## 0.7.39-beta.5 (2024-09-05)
+
+
+### 🚀 Features
+
+- **@ballerine/workflows-service:** adding a sample change to test new package ([dca9138e](https://github.com/codechirag123/ballerine/commit/dca9138e))
+
+
+### 🩹 Fixes
+
+- some major changes for making nx work ([a46dd33a](https://github.com/codechirag123/ballerine/commit/a46dd33a))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.5
+- Updated @ballerine/workflow-core to 0.6.40-beta.5
+- Updated @ballerine/common to 0.9.29-beta.5
+- Updated @ballerine/config to 1.1.14-beta.5
+- Updated @ballerine/workflow-node-sdk to 0.6.40-beta.5
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 0.7.39-beta.4 (2024-09-05)
 
 

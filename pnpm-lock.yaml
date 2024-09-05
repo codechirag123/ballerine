@@ -38,7 +38,7 @@ importers:
         version: 17.8.1
       '@nx/js':
         specifier: ^19.5.7
-        version: 19.6.5(@babel/traverse@7.23.7)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
+        version: 19.6.5(@babel/traverse@7.25.6)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
       commitizen:
         specifier: ^4.3.0
         version: 4.3.0(@types/node@20.5.1)(typescript@5.5.4)
@@ -1035,7 +1035,7 @@ importers:
   packages/blocks:
     dependencies:
       '@ballerine/common':
-        specifier: ^0.9.29-beta.4
+        specifier: ^0.9.29-beta.5
         version: link:../common
     devDependencies:
       '@babel/core':
@@ -1051,10 +1051,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../eslint-config
       '@rollup/plugin-babel':
         specifier: 5.3.1
@@ -1223,10 +1223,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -1381,10 +1381,10 @@ importers:
   packages/react-pdf-toolkit:
     dependencies:
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/ui':
-        specifier: 0.5.25-beta.4
+        specifier: 0.5.25-beta.5
         version: link:../ui
       '@react-pdf/renderer':
         specifier: ^3.1.14
@@ -1503,10 +1503,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -1608,7 +1608,7 @@ importers:
   packages/ui:
     dependencies:
       '@ballerine/common':
-        specifier: ^0.9.29-beta.4
+        specifier: ^0.9.29-beta.5
         version: link:../common
       '@emotion/react':
         specifier: ^11.11.1
@@ -1720,10 +1720,10 @@ importers:
         version: 3.22.4
     devDependencies:
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/eslint-config-react':
-        specifier: ^2.0.14-beta.4
+        specifier: ^2.0.14-beta.5
         version: link:../eslint-config-react
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -1831,7 +1831,7 @@ importers:
   packages/workflow-core:
     dependencies:
       '@ballerine/common':
-        specifier: 0.9.29-beta.4
+        specifier: 0.9.29-beta.5
         version: link:../common
       ajv:
         specifier: ^8.12.0
@@ -1865,10 +1865,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -2006,7 +2006,7 @@ importers:
   sdks/web-ui-sdk:
     dependencies:
       '@ballerine/common':
-        specifier: 0.9.29-beta.4
+        specifier: 0.9.29-beta.5
         version: link:../../packages/common
       '@zerodevx/svelte-toast':
         specifier: ^0.8.0
@@ -2133,10 +2133,10 @@ importers:
   sdks/workflow-browser-sdk:
     dependencies:
       '@ballerine/common':
-        specifier: 0.9.29-beta.4
+        specifier: 0.9.29-beta.5
         version: link:../../packages/common
       '@ballerine/workflow-core':
-        specifier: 0.6.40-beta.4
+        specifier: 0.6.40-beta.5
         version: link:../../packages/workflow-core
       xstate:
         specifier: ^4.37.0
@@ -2152,10 +2152,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -2275,7 +2275,7 @@ importers:
   sdks/workflow-node-sdk:
     dependencies:
       '@ballerine/workflow-core':
-        specifier: 0.6.40-beta.4
+        specifier: 0.6.40-beta.5
         version: link:../../packages/workflow-core
       json-logic-js:
         specifier: ^2.0.2
@@ -2294,10 +2294,10 @@ importers:
         specifier: 7.16.7
         version: 7.16.7(@babel/core@7.17.9)
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -2520,13 +2520,13 @@ importers:
         specifier: 3.347.1
         version: 3.347.1
       '@ballerine/common':
-        specifier: 0.9.29-beta.4
+        specifier: 0.9.29-beta.5
         version: link:../../packages/common
       '@ballerine/workflow-core':
-        specifier: 0.6.40-beta.4
+        specifier: 0.6.40-beta.5
         version: link:../../packages/workflow-core
       '@ballerine/workflow-node-sdk':
-        specifier: 0.6.40-beta.4
+        specifier: 0.6.40-beta.5
         version: link:../../sdks/workflow-node-sdk
       '@faker-js/faker':
         specifier: ^7.6.0
@@ -2698,10 +2698,10 @@ importers:
         version: 3.22.4
     devDependencies:
       '@ballerine/config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/config
       '@ballerine/eslint-config':
-        specifier: ^1.1.14-beta.4
+        specifier: ^1.1.14-beta.5
         version: link:../../packages/eslint-config
       '@cspell/cspell-types':
         specifier: ^6.31.1
@@ -5749,10 +5749,12 @@ packages:
   '@humanwhocodes/config-array@0.10.7':
     resolution: {integrity: sha512-MDl6D6sBsaV452/QSdX+4CXIjZhIcI0PELsxUjk4U828yd58vk3bTIvk/6w5FY+4hIy9sLW0sfrV7K7Kc++j/w==}
     engines: {node: '>=10.10.0'}
+    deprecated: Use @eslint/config-array instead
 
   '@humanwhocodes/config-array@0.11.13':
     resolution: {integrity: sha512-JSBDMiDKSzQVngfRjOdFXgFfklaXI4K9nLF49Auh21lmBWRLIK3+xTErTWD4KU54pb6coM6ESE7Awz/FNU3zgQ==}
     engines: {node: '>=10.10.0'}
+    deprecated: Use @eslint/config-array instead
 
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
@@ -5768,9 +5770,11 @@ packages:
 
   '@humanwhocodes/object-schema@1.2.1':
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
+    deprecated: Use @eslint/object-schema instead
 
   '@humanwhocodes/object-schema@2.0.1':
     resolution: {integrity: sha512-dvuCeX5fC9dXgJn9t+X5atfmgQAzUOWqS1254Gh0m6i8wKd10ebXkfNKiRK+1GWi/yTvvLDHpoxLr0xxxeslWw==}
+    deprecated: Use @eslint/object-schema instead
 
   '@humanwhocodes/object-schema@2.0.2':
     resolution: {integrity: sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==}
@@ -8169,6 +8173,7 @@ packages:
 
   '@storybook/testing-library@0.2.2':
     resolution: {integrity: sha512-L8sXFJUHmrlyU2BsWWZGuAjv39Jl1uAqUHdxmN42JY15M4+XCMjGlArdCCjDe1wpTSW6USYISA9axjZojgtvnw==}
+    deprecated: In Storybook 8, this package functionality has been integrated to a new package called @storybook/test, which uses Vitest APIs for an improved experience. When upgrading to Storybook 8 with 'npx storybook@latest upgrade', you will get prompted and will get an automigration for the new package. Please migrate when you can.
 
   '@storybook/theming@6.5.16':
     resolution: {integrity: sha512-hNLctkjaYLRdk1+xYTkC1mg4dYz2wSv6SqbLpcKMbkPHTE0ElhddGPHQqB362md/w9emYXNkt1LSMD8Xk9JzVQ==}
@@ -9467,6 +9472,7 @@ packages:
 
   abab@2.0.6:
     resolution: {integrity: sha512-j2afSsaIENvHZN2B8GOpF566vZ5WVk5opAiMTvWgaQT8DkbOqsTfvNAvHoRGU2zzP8cPoqys+xHTRDWW8L+/BA==}
+    deprecated: Use your platform's native atob() and btoa() methods instead
 
   abbrev@1.1.1:
     resolution: {integrity: sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==}
@@ -9661,6 +9667,7 @@ packages:
   are-we-there-yet@2.0.0:
     resolution: {integrity: sha512-Ci/qENmwHnsYo9xKIcUJN5LeDKdJ6R1Z1j9V/J5wyq8nh/mYPEpIKJbBZXtZjG04HiK7zV/p6Vs9952MrMeUIw==}
     engines: {node: '>=10'}
+    deprecated: This package is no longer supported.
 
   arg@4.1.3:
     resolution: {integrity: sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA==}
@@ -11164,6 +11171,7 @@ packages:
   domexception@4.0.0:
     resolution: {integrity: sha512-A2is4PLG+eeSfoTMA95/s4pvAoSo2mKtiM5jlHkAVewmiO8ISFTFKZjH7UAM1Atli/OT/7JHOrJRJiMKUZKYBw==}
     engines: {node: '>=12'}
+    deprecated: Use your platform's native DOMException instead
 
   domhandler@4.3.1:
     resolution: {integrity: sha512-GrwoxYN+uWlzO8uhUXRl0P+kHE4GtVPfYzVLcUxPL7KNdHKj66vvlhiweIHqYYXWlw+T8iLMp42Lm67ghw4WMQ==}
@@ -11559,6 +11567,7 @@ packages:
 
   eslint-config-standard-with-typescript@37.0.0:
     resolution: {integrity: sha512-V8I/Q1eFf9tiOuFHkbksUdWO3p1crFmewecfBtRxXdnvb71BCJx+1xAknlIRZMwZioMX3/bPtMVCZsf1+AjjOw==}
+    deprecated: Please use eslint-config-love, instead.
     peerDependencies:
       '@typescript-eslint/eslint-plugin': ^5.52.0
       eslint: ^8.0.1
@@ -12256,6 +12265,7 @@ packages:
   gauge@3.0.2:
     resolution: {integrity: sha512-+5J6MS/5XksCuXq++uFRsnUd7Ovu1XenbeuIuNRJxYWjgQbPuFhT14lAvsWfqfAmnwluf1OwMjz39HjfLPci0Q==}
     engines: {node: '>=10'}
+    deprecated: This package is no longer supported.
 
   gensequence@5.0.2:
     resolution: {integrity: sha512-JlKEZnFc6neaeSVlkzBGGgkIoIaSxMgvdamRoPN8r3ozm2r9dusqxeKqYQ7lhzmj2UhFQP8nkyfCaiLQxiLrDA==}
@@ -12363,13 +12373,16 @@ packages:
 
   glob@7.1.6:
     resolution: {integrity: sha512-LwaxwyZ72Lk7vZINtNNrywX0ZuLyStrdDtabefZKAY5ZGJhVtgdznluResxNmPitE0SAO+O26sWTHeKSI2wMBA==}
+    deprecated: Glob versions prior to v9 are no longer supported
 
   glob@7.2.3:
     resolution: {integrity: sha512-nFR0zLpU2YCaRxwoCJvL6UvCH2JFyFVIvwTLsIf21AuHlMskA1hhTdk+LlYJtOlYt9v6dvszD2BGRqBL+iQK9Q==}
+    deprecated: Glob versions prior to v9 are no longer supported
 
   glob@8.1.0:
     resolution: {integrity: sha512-r8hpEjiQEYlF2QU0df3dS+nxxSIreXQS1qRhMJM0Q5NDdR386C7jb7Hwwod8Fgiuex+k0GFjgft18yvxm5XoCQ==}
     engines: {node: '>=12'}
+    deprecated: Glob versions prior to v9 are no longer supported
 
   glob@9.3.2:
     resolution: {integrity: sha512-BTv/JhKXFEHsErMte/AnfiSv8yYOLLiyH2lTg8vn02O21zWFgHPTfxtgn1QRe7NRgggUhC8hacR2Re94svHqeA==}
@@ -12749,6 +12762,7 @@ packages:
 
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
+    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
@@ -14436,6 +14450,7 @@ packages:
 
   npmlog@5.0.1:
     resolution: {integrity: sha512-AqZtDUWOMKs1G/8lwylVjrdYgqA4d9nu8hc+0gzRxlDb1I10+FHBGMXs6aiQHFdCUUlqH99MUMuLfzWDNDtfxw==}
+    deprecated: This package is no longer supported.
 
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
@@ -15676,14 +15691,17 @@ packages:
 
   rimraf@2.6.3:
     resolution: {integrity: sha512-mwqeW5XsA2qAejG46gYdENaxXjx9onRNCfn7L0duuP4hCuTIi/QO7PDK07KJfp1d+izWPrzEJDcSqBa0OZQriA==}
+    deprecated: Rimraf versions prior to v4 are no longer supported
     hasBin: true
 
   rimraf@2.7.1:
     resolution: {integrity: sha512-uWjbaKIK3T1OSVptzX7Nl6PvQ3qAGtKEtVRjRuazjfL3Bx5eI409VZSqgND+4UNnmzLVdPj9FqFJNPqBZFve4w==}
+    deprecated: Rimraf versions prior to v4 are no longer supported
     hasBin: true
 
   rimraf@3.0.2:
     resolution: {integrity: sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==}
+    deprecated: Rimraf versions prior to v4 are no longer supported
     hasBin: true
 
   rimraf@4.4.0:
@@ -15943,6 +15961,7 @@ packages:
 
   shikiji@0.6.13:
     resolution: {integrity: sha512-4T7X39csvhT0p7GDnq9vysWddf2b6BeioiN3Ymhnt3xcy9tXmDcnsEFVxX18Z4YcQgEE/w48dLJ4pPPUcG9KkA==}
+    deprecated: Shikiji is merged back to Shiki v1.0, please migrate over to get the latest updates
 
   side-channel@1.0.4:
     resolution: {integrity: sha512-q5XPytqFEIKHkGdiMIrY10mvLRvnQh42/+GoBlFW3b2LXLE2xxJpZFdm94we0BaoV3RwJyGqg5wS7epxTv0Zvw==}
@@ -16318,11 +16337,12 @@ packages:
   superagent@3.8.3:
     resolution: {integrity: sha512-GLQtLMCoEIK4eDv6OGtkOoSMt3D+oq0y3dsxMuYuDvaNUvuT8eFBuLmfR0iYYzHC1e8hpzC6ZsxbuP6DIalMFA==}
     engines: {node: '>= 4.0'}
-    deprecated: Please upgrade to v7.0.2+ of superagent.  We have fixed numerous issues with streams, form-data, attach(), filesystem errors not bubbling up (ENOENT on attach()), and all tests are now passing.  See the releases tab for more information at <https://github.com/visionmedia/superagent/releases>.
+    deprecated: Please upgrade to v9.0.0+ as we have fixed a public vulnerability with formidable dependency. Note that v9.0.0+ requires Node.js v14.18.0+. See https://github.com/ladjs/superagent/pull/1800 for insight. This project is supported and maintained by the team at Forward Email @ https://forwardemail.net
 
   superagent@8.1.2:
     resolution: {integrity: sha512-6WTxW1EB6yCxV5VFOIPQruWGHqc3yI7hEmZK6h+pyk69Lk/Ut7rLUY6W/ONF2MjBuGjvmMiIpsrVJ2vjrHlslA==}
     engines: {node: '>=6.4.0 <13 || >=14'}
+    deprecated: Please upgrade to v9.0.0+ as we have fixed a public vulnerability with formidable dependency. Note that v9.0.0+ requires Node.js v14.18.0+. See https://github.com/ladjs/superagent/pull/1800 for insight. This project is supported and maintained by the team at Forward Email @ https://forwardemail.net
 
   superjson@1.13.3:
     resolution: {integrity: sha512-mJiVjfd2vokfDxsQPOwJ/PtanO87LhpYY88ubI5dUB1Ab58Txbyje3+jpm+/83R/fevaq/107NNhtYBLuoTrFg==}
@@ -23142,7 +23162,7 @@ snapshots:
       '@mui/types': 7.2.13(@types/react@18.2.43)
       '@mui/utils': 5.15.6(@types/react@18.2.43)(react@18.2.0)
       '@types/react-transition-group': 4.4.9
-      clsx: 2.1.1
+      clsx: 2.1.0
       csstype: 3.1.3
       prop-types: 15.8.1
       react: 18.2.0
@@ -23519,9 +23539,9 @@ snapshots:
     transitivePeerDependencies:
       - nx
 
-  '@nrwl/js@19.6.5(@babel/traverse@7.23.7)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)':
+  '@nrwl/js@19.6.5(@babel/traverse@7.25.6)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)':
     dependencies:
-      '@nx/js': 19.6.5(@babel/traverse@7.23.7)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
+      '@nx/js': 19.6.5(@babel/traverse@7.25.6)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
     transitivePeerDependencies:
       - '@babel/traverse'
       - '@swc-node/register'
@@ -23572,7 +23592,7 @@ snapshots:
       tslib: 2.6.2
       yargs-parser: 21.1.1
 
-  '@nx/js@19.6.5(@babel/traverse@7.23.7)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)':
+  '@nx/js@19.6.5(@babel/traverse@7.25.6)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)':
     dependencies:
       '@babel/core': 7.23.7
       '@babel/plugin-proposal-decorators': 7.24.7(@babel/core@7.23.7)
@@ -23581,12 +23601,12 @@ snapshots:
       '@babel/preset-env': 7.23.3(@babel/core@7.23.7)
       '@babel/preset-typescript': 7.24.7(@babel/core@7.23.7)
       '@babel/runtime': 7.23.8
-      '@nrwl/js': 19.6.5(@babel/traverse@7.23.7)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
+      '@nrwl/js': 19.6.5(@babel/traverse@7.25.6)(@swc/core@1.3.96(@swc/helpers@0.4.36))(@types/node@20.5.1)(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))(typescript@5.5.4)
       '@nx/devkit': 19.6.5(nx@19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36)))
       '@nx/workspace': 19.6.5(@swc/core@1.3.96(@swc/helpers@0.4.36))
       babel-plugin-const-enum: 1.2.0(@babel/core@7.23.7)
       babel-plugin-macros: 2.8.0
-      babel-plugin-transform-typescript-metadata: 0.3.2(@babel/core@7.23.7)(@babel/traverse@7.23.7)
+      babel-plugin-transform-typescript-metadata: 0.3.2(@babel/core@7.23.7)(@babel/traverse@7.25.6)
       chalk: 4.1.2
       columnify: 1.6.0
       detect-port: 1.5.1
@@ -24451,7 +24471,7 @@ snapshots:
 
   '@radix-ui/react-label@2.0.2(@types/react-dom@18.2.17)(@types/react@18.2.43)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)':
     dependencies:
-      '@babel/runtime': 7.23.8
+      '@babel/runtime': 7.23.2
       '@radix-ui/react-primitive': 1.0.3(@types/react-dom@18.2.17)(@types/react@18.2.43)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
@@ -24923,7 +24943,7 @@ snapshots:
 
   '@radix-ui/react-scroll-area@1.0.5(@types/react-dom@18.2.17)(@types/react@18.2.43)(react-dom@18.2.0(react@18.2.0))(react@18.2.0)':
     dependencies:
-      '@babel/runtime': 7.23.8
+      '@babel/runtime': 7.23.2
       '@radix-ui/number': 1.0.1
       '@radix-ui/primitive': 1.0.1
       '@radix-ui/react-compose-refs': 1.0.1(@types/react@18.2.43)(react@18.2.0)
@@ -30730,12 +30750,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  babel-plugin-transform-typescript-metadata@0.3.2(@babel/core@7.23.7)(@babel/traverse@7.23.7):
+  babel-plugin-transform-typescript-metadata@0.3.2(@babel/core@7.23.7)(@babel/traverse@7.25.6):
     dependencies:
       '@babel/core': 7.23.7
       '@babel/helper-plugin-utils': 7.22.5
     optionalDependencies:
-      '@babel/traverse': 7.23.7
+      '@babel/traverse': 7.25.6
 
   babel-preset-current-node-syntax@1.0.1(@babel/core@7.23.7):
     dependencies:

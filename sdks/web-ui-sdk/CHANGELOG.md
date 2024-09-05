@@ -1,3 +1,20 @@
+## 1.5.30-beta.5 (2024-09-05)
+
+
+### 🩹 Fixes
+
+- some major changes for making nx work ([a46dd33a](https://github.com/codechirag123/ballerine/commit/a46dd33a))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/common to 0.9.29-beta.5
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.5.30-beta.4 (2024-09-05)
 
 

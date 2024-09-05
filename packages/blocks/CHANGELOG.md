@@ -1,3 +1,19 @@
+## 0.2.15-beta.5 (2024-09-05)
+
+### 🩹 Fixes
+
+- some major changes for making nx work ([a46dd33a](https://github.com/codechirag123/ballerine/commit/a46dd33a))
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.5
+- Updated @ballerine/common to 0.9.29-beta.5
+- Updated @ballerine/config to 1.1.14-beta.5
+
+### ❤️ Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 0.2.15-beta.4 (2024-09-05)
 
 ### 🧱 Updated Dependencies

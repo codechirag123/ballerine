@@ -1,3 +1,21 @@
+## 1.2.25-beta.5 (2024-09-05)
+
+
+### 🩹 Fixes
+
+- some major changes for making nx work ([a46dd33a](https://github.com/codechirag123/ballerine/commit/a46dd33a))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/config to 1.1.14-beta.5
+- Updated @ballerine/ui to 0.5.25-beta.5
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.2.25-beta.4 (2024-09-05)
 
 

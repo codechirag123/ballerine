@@ -1,3 +1,15 @@
+## 1.1.14-beta.5 (2024-09-05)
+
+
+### 🩹 Fixes
+
+- some major changes for making nx work ([a46dd33a](https://github.com/codechirag123/ballerine/commit/a46dd33a))
+
+
+### ❤️  Thank You
+
+- Chirag Sharma IAMOPS
+
 ## 1.1.14-beta.4 (2024-09-05)
 
 This was a version bump only for @ballerine/config to align it with other projects, there were no code changes.
