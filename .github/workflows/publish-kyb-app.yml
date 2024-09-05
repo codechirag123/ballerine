@@ -2,17 +2,17 @@ name: Publish kyb-app image
 
 on:
   workflow_dispatch:
-  push:
-    # Run this pipeline only if there are changes in specified path
-    paths:
-      - 'apps/kyb-app/**'
-    branches:
-      - dev
-      - test
-      - prod
-      - staging
-      - sb
-      - demo
+  # push:
+  #   # Run this pipeline only if there are changes in specified path
+  #   paths:
+  #     - 'apps/kyb-app/**'
+  #   branches:
+  #     - dev
+  #     - test
+  #     - prod
+  #     - staging
+  #     - sb
+  #     - demo
 
 env:
   REGISTRY: ghcr.io

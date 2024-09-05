@@ -13,17 +13,17 @@ on:
         options:
           - 'false'
           - 'true'
-  push:
-    paths:
-      # Run this pipeline only if there are changes in specified path
-      - 'services/workflows-service/**'
-    branches:
-      - dev
-      - test
-      - prod
-      - staging
-      - sb
-      - demo
+  # push:
+  #   paths:
+  #     # Run this pipeline only if there are changes in specified path
+  #     - 'services/workflows-service/**'
+  #   branches:
+  #     - dev
+  #     - test
+  #     - prod
+  #     - staging
+  #     - sb
+  #     - demo
 
 env:
   REGISTRY: ghcr.io
