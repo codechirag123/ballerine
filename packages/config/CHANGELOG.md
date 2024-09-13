@@ -77,6 +77,12 @@ This was a version bump only for @ballerine/config to align it with other projec
 
 # @ballerine/config
 
+## 1.1.13
+
+### Patch Changes
+
+- Version bump
+
 ## 1.1.12
 
 ### Patch Changes

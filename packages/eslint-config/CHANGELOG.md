@@ -73,6 +73,12 @@ This was a version bump only for @ballerine/eslint-config to align it with other
 
 # @ballerine/eslint-config
 
+## 1.1.13
+
+### Patch Changes
+
+- Version bump
+
 ## 1.1.12
 
 ### Patch Changes

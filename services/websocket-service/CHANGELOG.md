@@ -92,6 +92,12 @@ This was a version bump only for @ballerine/websocket-service to align it with o
 
 # @ballerine/websocket-service
 
+## 0.1.13
+
+### Patch Changes
+
+- Version bump
+
 ## 0.1.12
 
 ### Patch Changes
