@@ -1,3 +1,43 @@
+## 0.5.25-beta.6 (2024-09-14)
+
+
+### 🚀 Features
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+- **ci-cd:** new action for publish package on github action ([969fa93f](https://github.com/codechirag123/ballerine/commit/969fa93f))
+
+
+### 🩹 Fixes
+
+- changed file name with test prefix ([#2673](https://github.com/codechirag123/ballerine/pull/2673))
+
+- circular dependency ([#2696](https://github.com/codechirag123/ballerine/pull/2696))
+
+- **@ballerine/workflows-service:** removed the change ([1d38dc9b](https://github.com/codechirag123/ballerine/commit/1d38dc9b))
+
+
+### 🏡 Chore
+
+- version bump ([#2690](https://github.com/codechirag123/ballerine/pull/2690))
+
+- **release:** publish ([3ef41d7b](https://github.com/codechirag123/ballerine/commit/3ef41d7b))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config-react to 2.0.14-beta.6
+- Updated @ballerine/common to 0.9.29-beta.6
+- Updated @ballerine/config to 1.1.14-beta.6
+
+
+### ❤️  Thank You
+
+- Chirag @codechirag123
+- Chirag Sharma IAMOPS
+- liorzam @liorzam
+- Tomer Shvadron
+
 ## 0.5.25 (2024-09-05)
 
 ### 🚀 Features

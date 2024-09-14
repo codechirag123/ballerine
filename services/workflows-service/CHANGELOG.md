@@ -1,3 +1,60 @@
+## 0.7.39-beta.7 (2024-09-14)
+
+
+### 🚀 Features
+
+- fixed db reset script ([ee62d2cf](https://github.com/codechirag123/ballerine/commit/ee62d2cf))
+
+- adding new action for nx release ([903b7b21](https://github.com/codechirag123/ballerine/commit/903b7b21))
+
+- fenced upload multiple merchants behind feature flag ([#2694](https://github.com/codechirag123/ballerine/pull/2694))
+
+- **ci-cd:** new action for publish package on github action ([969fa93f](https://github.com/codechirag123/ballerine/commit/969fa93f))
+
+- **@ballerine/workflows-service:** added a sample variable in const ([2061cdcb](https://github.com/codechirag123/ballerine/commit/2061cdcb))
+
+
+### 🩹 Fixes
+
+- fix with quality controll persistence from config ([#2692](https://github.com/codechirag123/ballerine/pull/2692))
+
+- changed file name with test prefix ([#2673](https://github.com/codechirag123/ballerine/pull/2673))
+
+- circular dependency ([#2696](https://github.com/codechirag123/ballerine/pull/2696))
+
+- **@ballerine/workflows-service:** adding a change ([7cff544e](https://github.com/codechirag123/ballerine/commit/7cff544e))
+
+- **@ballerine/workflows-service:** removed the change ([1d38dc9b](https://github.com/codechirag123/ballerine/commit/1d38dc9b))
+
+
+### 🏡 Chore
+
+- version bump ([#2690](https://github.com/codechirag123/ballerine/pull/2690))
+
+- **release:** publish ([3ef41d7b](https://github.com/codechirag123/ballerine/commit/3ef41d7b))
+
+- **wf-types:** config and webhookd examples ([f40549e9](https://github.com/codechirag123/ballerine/commit/f40549e9))
+
+
+### 🧱 Updated Dependencies
+
+- Updated @ballerine/eslint-config to 1.1.14-beta.6
+- Updated @ballerine/workflow-core to 0.6.40-beta.6
+- Updated @ballerine/common to 0.9.29-beta.6
+- Updated @ballerine/config to 1.1.14-beta.6
+- Updated @ballerine/workflow-node-sdk to 0.6.40-beta.6
+
+
+### ❤️  Thank You
+
+- Alon Peretz @alonp99
+- blokh
+- Chirag @codechirag123
+- Chirag Sharma IAMOPS
+- Daniel Blokh @Blokh
+- liorzam @liorzam
+- Tomer Shvadron
+
 ## 0.7.39 (2024-09-05)
 
 
