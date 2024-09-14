@@ -1,6 +1,7 @@
 export const THREE_DAYS = 3;
 export const SEVEN_DAYS = 7;
 export const TWENTY_ONE_DAYS = 21;
+export const SAMPLE_VAL_CHI = 'Chi';
 
 export const daysToMinutesConverter = (days: number) => days * 24 * 60;
 
